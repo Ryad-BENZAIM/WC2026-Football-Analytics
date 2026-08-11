@@ -1,0 +1,7 @@
+team,matches,goals,xg,shots,shots_on_target,conversion_pct,xg_per_shot,goals_minus_xg
+France,8,20,17.53,139,59,14.39,0.13,2.47
+Spain,8,14,15.62,140,54,10.0,0.11,-1.62
+Argentina,8,19,14.6,114,44,16.67,0.13,4.4
+England,8,20,14.34,118,53,16.95,0.12,5.66
+Brazil,5,10,12.3,74,30,13.51,0.17,-2.3
+Belgium,6,14,10.89,112,34,12.5,0.1,3.11
